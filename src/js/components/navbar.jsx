@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
 	return (
-		<nav className="navbar navbar-expand-lg navbar-dark bg-dark px-5">
+		<nav className="navbar navbar-expand-lg navbar-dark bg-black px-5 border-bottom border-secondary">
 			<a className="navbar-brand fw-bold" href="#">
 				Azteca
 			</a>
